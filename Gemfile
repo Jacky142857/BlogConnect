@@ -7,6 +7,8 @@ gem "rails", "~> 7.0.2", ">= 7.0.2.3"
 
 gem 'bootstrap-sass', '3.3.6'
 
+gem 'bcrypt', '3.1.17'
+
 gem 'sass-rails'
 
 gem 'rails-controller-testing'
