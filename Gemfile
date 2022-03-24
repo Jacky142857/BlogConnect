@@ -5,6 +5,12 @@ ruby "3.1.1"
 
 gem "rails", "~> 7.0.2", ">= 7.0.2.3"
 
+gem 'bootstrap-sass', '3.3.6'
+
+gem 'sass-rails'
+
+gem 'rails-controller-testing'
+
 gem "sprockets-rails"
 
 # gem "sqlite3", "~> 1.4"
