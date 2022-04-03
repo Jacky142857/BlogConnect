@@ -16,3 +16,6 @@
 * Remember Login State
 * Email and Password check and errors raised when not conforming to standards
 ![image](https://user-images.githubusercontent.com/77191979/161428791-517e607c-3015-4634-9eda-c19e4dfd976d.png)
+
+
+## Logout
