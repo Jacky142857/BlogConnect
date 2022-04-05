@@ -15,6 +15,8 @@ gem 'rails-controller-testing'
 
 gem "sprockets-rails"
 
+gem 'faker', '2.20.0'
+
 # gem "sqlite3", "~> 1.4"
 
 gem "puma", "~> 5.0"
